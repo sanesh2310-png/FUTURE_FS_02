@@ -45,5 +45,4 @@ Sign in with the `ADMIN_EMAIL` and `ADMIN_PASSWORD` from `server/.env`. To see a
 | POST | `/api/leads/:id/notes` | admin | Add a note, optionally with a follow-up date |
 | DELETE | `/api/leads/:id` | admin | Delete a lead |
 
-## Notes
-Never commit `server/.env`. Ideas for next steps: email alerts for new leads, login rate limiting, pagination, CSV export.
+
