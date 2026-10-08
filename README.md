@@ -2,6 +2,8 @@
 
 A small CRM for managing client leads that arrive from website contact forms. Built for the Future Interns Full Stack Web Development internship, Task 2.
 
+## Live Site - https://crm-frontend-rxgj.onrender.com
+
 ## Features
 - **Contact form endpoint** (`POST /api/leads`): any website form can send leads in
 - **Secure admin login** (JWT, bcrypt-hashed password); only admins can read or change leads
